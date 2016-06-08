@@ -2,4 +2,4 @@
 
 ```
 cd src
-python ffnn_pointwise.py ../configs/config.ini   
+python train_jws_ffnn.py ../configs/config.ini   
